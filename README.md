@@ -58,7 +58,6 @@ You can pause the game when you press the Esc key.
 This project uses various assets from the Unity Asset Store. Below are the credits and links to the assets used:
 
 Sprites:
-- The main character and animations were created by me using Aseprite.
 - [2D Pixel art pack for top down map](https://assetstore.unity.com/packages/2d/environments/pixel-art-top-down-basic-187605)
 - [2D Pixel art pack](https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360)
 - [2D Pixel art pack](https://assetstore.unity.com/packages/2d/characters/pixel-adventure-2-155418)
