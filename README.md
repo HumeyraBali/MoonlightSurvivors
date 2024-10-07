@@ -11,17 +11,15 @@
 This is a 2D Vampire Survivors Like Game. The game is under development and I am sharing the demo version. I will update the game.
 
 <p float="left">
-  <img src="Source_Images/mainmenu.png" alt="Screenshot 1" width="45%" style="margin: 2.5%;" />
-  <img src="Source_Images/finishscene.png" alt="Screenshot 2" width="45%" style="margin: 2.5%;" />
+  <img src="Source_Images/1.png" alt="Screenshot 1" width="45%" style="margin: 2.5%;" />
+  <img src="Source_Images/2.png" alt="Screenshot 2" width="45%" style="margin: 2.5%;" />
 </p>
 <p float="left">
-  <img src="Source_Images/gamescene2.png" alt="Screenshot 3" width="45%" style="margin: 2.5%;" />
-  <img src="Source_Images/gamescene3.png" alt="Screenshot 4" width="45%" style="margin: 2.5%;" />
+  <img src="Source_Images/3.png" alt="Screenshot 3" width="45%" style="margin: 2.5%;" />
+  <img src="Source_Images/4.png" alt="Screenshot 4" width="45%" style="margin: 2.5%;" />
 </p>
 
 ## How to Play
-
-[Play the game on Unity Play](https://play.unity.com/en/games/362b8ff6-2220-4905-ab0e-ef7fe33bcab3/paws-and-platforms)
 
 Movement: Use the arrow keys or A and D to move left and right.
 Destroy chests for a chance to gain health. 
