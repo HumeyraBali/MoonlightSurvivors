@@ -20,6 +20,7 @@ This is a 2D Vampire Survivors Like Game. The game is under development and I am
 </p>
 
 ## How to Play
+[Play the game on Unity Play](https://play.unity.com/en/games/b6ba703a-7afd-4f93-a751-d51ed4e44cca/moonlight-survivors-demo)
 
 Movement: Use the arrow keys or A and D to move left and right.
 Destroy chests for a chance to gain health. 
