@@ -8,7 +8,7 @@
 - [Credits](#credits)
 
 ## Overview
-This is a 2D Vampire Survivors Like Game. The game is under development and I am sharing the demo version. I will update the game.
+This is a 2D Vampire Survivors Like Game. The game has the basic mechanics of the vampire survivors game. I made this game to improve myself in Unity.
 
 <p float="left">
   <img src="Source_Images/1.png" alt="Screenshot 1" width="45%" style="margin: 2.5%;" />
@@ -21,11 +21,14 @@ This is a 2D Vampire Survivors Like Game. The game is under development and I am
 
 ## How to Play
 [Play the game on Unity Play](https://play.unity.com/en/games/b6ba703a-7afd-4f93-a751-d51ed4e44cca/moonlight-survivors-demo)
+[Play the game on itch.io](https://curlygamely.itch.io/moonlight-survivors)
 
 - Movement: Use the arrow keys or WASD.
-- Destroy chests for a chance to gain health. 
+- Destroy chests for a chance to gain health, dimond or coin.
 - Collect diamonds dropped by enemies to gain extra experience. You will also gain experience when you kill an enemy. 
-- Choose a new weapon or update your weapon damage or attack speed when you level up.
+- Choose a new weapon when you level up or update your weapon damage, attack speed or attack count. You can take shield too.
+- Survive for up to 5 minutes and win.
+- Buy upgrades from the store with the money collected.
 - You can pause the game when you press the Esc key.
 
 ## Features
@@ -53,6 +56,7 @@ This is a 2D Vampire Survivors Like Game. The game is under development and I am
   - **Game Over Menu**: Displayed when the player runs out of health. It contain exit button which returns to main menu.
   - **Pause Menu**: Displayed when the player press the Esc key.
   - **Level Up Menu**: Displayed when the player collect enough exp points for level up and show weapon upgrades.
+
 
 ## Credits
 
