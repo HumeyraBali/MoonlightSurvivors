@@ -21,6 +21,7 @@ This is a 2D Vampire Survivors Like Game. The game has the basic mechanics of th
 
 ## How to Play
 [Play the game on Unity Play](https://play.unity.com/en/games/b6ba703a-7afd-4f93-a751-d51ed4e44cca/moonlight-survivors-demo)
+
 [Play the game on itch.io](https://curlygamely.itch.io/moonlight-survivors)
 
 - Movement: Use the arrow keys or WASD.
