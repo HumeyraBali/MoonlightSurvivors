@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddfc93339704bb64eac503ea1e6aa78e, type: 3}
+  m_Name: BatBoss
+  m_EditorClassIdentifier: 
+  Name: BatBoss
+  animatedPrefab: {fileID: 8625310824795989922, guid: ecdad5c0deba4e14ea90277a787d87c8, type: 3}
+  stats:
+    hp: 1200
+    damage: 10
+    experience_reward: 1000
+    speed: 1

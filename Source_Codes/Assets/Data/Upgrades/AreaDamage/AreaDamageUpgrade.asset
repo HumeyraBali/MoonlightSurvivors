@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9a93b294f443a94c958644339dfbe11, type: 3}
+  m_Name: AreaDamageUpgrade
+  m_EditorClassIdentifier: 
+  upgradeType: 0
+  Name: Area Damage Upgrade 1
+  description: Area Damage +10
+  icon: {fileID: -784329526483113823, guid: abb5996f9b65ae348a631a8aa2e1c0d6, type: 3}
+  weaponData: {fileID: 11400000, guid: 86b2bb8c26a20414285d799ebbf4668a, type: 2}
+  weaponUpgradeStats:
+    damage: 10
+    timeToAttack: 1
+    numberOfAttack: 1
+  item: {fileID: 0}
+  itemStats:
+    armor: 0

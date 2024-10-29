@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddfc93339704bb64eac503ea1e6aa78e, type: 3}
+  m_Name: Skull
+  m_EditorClassIdentifier: 
+  Name: Skull
+  animatedPrefab: {fileID: 8625310824795989922, guid: 8c6c7998a56e25f4c87ad7f5d04519b2, type: 3}
+  stats:
+    hp: 400
+    damage: 4
+    experience_reward: 400
+    speed: 2

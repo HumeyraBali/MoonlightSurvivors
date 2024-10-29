@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a26eeb64da855af4aae058df91d28fa2, type: 3}
+  m_Name: TrowingBall
+  m_EditorClassIdentifier: 
+  Name: ThrowingBall
+  stats:
+    damage: 100
+    timeToAttack: 3
+    numberOfAttack: 1
+  weaponBasePrefab: {fileID: 6146850700465351118, guid: b6ab4e5902e03164f9342190e72b7ba9, type: 3}
+  upgrades:
+  - {fileID: 11400000, guid: ecc74f81faa701e4193e48162132f09c, type: 2}
+  - {fileID: 11400000, guid: 4a56059784faa2c4cb55b8f518c69a96, type: 2}
+  - {fileID: 11400000, guid: 3799824335539ff4d8e36b556d09f1fd, type: 2}
