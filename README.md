@@ -26,7 +26,7 @@ This is a 2D Vampire Survivors Like Game. The game has the basic mechanics of th
 [Play the game on itch.io](https://curlygamely.itch.io/moonlight-survivors)
 
 - Movement: Use the arrow keys or WASD.
-- Destroy chests for a chance to gain health, dimond or coin.
+- Destroy chests for a chance to gain health, diamond or coin.
 - Collect diamonds dropped by enemies to gain extra experience. You will also gain experience when you kill an enemy. 
 - Choose a new weapon when you level up or update your weapon damage, attack speed or attack count. You can take shield too.
 - Survive for up to 5 minutes and win.
@@ -45,7 +45,7 @@ This is a 2D Vampire Survivors Like Game. The game has the basic mechanics of th
 - **Game Systems**:
   - **Health System**: Player have health bar that decrease when taking damage and increase when collect hearth.
   - **Level Up System**: System for collect exp points and reach higher levels.
-  - **Item System**: The player can collect coins and dropped dimonds from enemies and hearts from chests.
+  - **Item System**: The player can collect coins and dropped diamonds from enemies and hearts from chests.
   - **Spawn Systems**: There are spawn systems for enemies and chests.
   - **World Loop System**: The map is regenerated for infinite world scrolling.
   - **Weapon System**: System for manage weapon data and upgrades.
