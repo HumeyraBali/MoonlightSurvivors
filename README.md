@@ -5,6 +5,7 @@
 - [How to Play](#how-to-play)
 - [Features](#features)
   - [Version 1.0](#version-10)
+  - [Version 1.2](#version-12)
 - [Credits](#credits)
 
 ## Overview
